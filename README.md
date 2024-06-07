@@ -23,7 +23,7 @@ My project experience includes team and individual projects, where I have worked
 ### Roadmap 2024 :
 
 ✍️ - **Improve:** `HTML` | `CSS` | `JavaScript` | `React` | `Node.js` | `Next.js` | `TypeScript` <br>
-📚 - **Learn:** `Golang` | `React Native` | `Vue`  <br>
+📚 - **Learn:** `Golang` | `React Native` <br>
 
 <br>
 <br>
